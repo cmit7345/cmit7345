@@ -4,7 +4,7 @@ Hi 👋 My name is Chris
 Analytics Engineer at BINK
 --------------------------
 
-I work in the Data Product team to manage our data warehouse and create ELT pipelines to analytics dashboards. Tech Stack: Python DBT Snowflake Tableau Prefect Airbyte
+I work in the Data Product team to manage our data warehouse and create ELT pipelines to analytics dashboards. For this I use Python, DBT, Snowflake, Tableau, Prefect, and Airbyte.
 
 *   🌍  I'm based in Ascot, Berkshire.
 *   ✉️  You can contact me at [cmitchell@bink.com](mailto:cmitchell@bink.com)
