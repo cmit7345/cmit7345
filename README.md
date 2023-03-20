@@ -9,7 +9,10 @@ I work in the Data Product team to manage our data warehouse and create ELT pipe
 *   🌍  I'm based in Ascot, Berkshire.
 *   ✉️  You can contact me at [cmitchell@bink.com](mailto:cmitchell@bink.com)
 *   🚀  I'm currently working on [Snowflake, DBT, and Tableau.](http://bink.com/)
-*   🧠  I'm learning Go with the GIN web framework### Skills 
+*   🧠  I'm learning Go with the GIN web framework
+
+### Skills
+
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
