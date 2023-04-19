@@ -4,7 +4,7 @@ Hi 👋 My name is Chris
 Analytics Engineer at BINK
 --------------------------
 
-I work in the Data Product team at BINK. My primary role is as an analytics engineer using DBT and snowflake to create end-to-end data pipelines including load, staging and transformation. Having previously worked as a Data Scientists in the retail finance industry, I also have experience using R, AI/ML, Azure Data Stack, and PowerBI. At BINK, I seek to update our delivery of data to an R Shiny web application with custom analytics created for each consumer of the data, with integrated machine learning and self service of data.
+I work in the Data Product team at BINK. My primary role is as an analytics engineer using DBT and snowflake to create end-to-end data pipelines including load, staging and transformation. Having previously worked as a Data Scientists in the retail finance industry, I also have experience using R, AI/ML, Azure Data Stack, and PowerBI. At BINK, I seek to update our delivery of data to an web application with custom analytics created for each consumer of the data, with integrated machine learning and self service of data.
 
 * 🌍  I'm based in Ascot, Berkshire.
 * ✉️  You can contact me at [cmitchell@bink.com](mailto:cmitchell@bink.com)
