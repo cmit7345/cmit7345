@@ -9,7 +9,7 @@ I work in the Data Product team at BINK. My primary role is as an analytics engi
 *   🌍  I'm based in Warwickshire.
 *   ✉️  You can contact me at [cmitchell@bink.com](mailto:cmitchell@bink.com)
 *   🚀  I'm currently working on [ELT Pipelines and Analytics at Bink.](http://www.bink.com)
-*   🧠  I'm learning Svelte, Rust, Go, and Full Stack Development to integrate AI/ML into web applications at scale.
+*   🧠  I'm learning Svelte and Rust for Full Stack Development.
 *   🤝  I'm open to collaborating on AI/ML Research.
 *   ⚡  I'm a big fan of rugby and cricket.
 
