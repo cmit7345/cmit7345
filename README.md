@@ -1,9 +1,6 @@
-Hi 👋 My name is Chris
-======================
-
-Analytics Engineer at BINK
+# BINK is dead, Long Live Bink
+## This account is now archived, please see [here](https://github.com/Rawlsy-py) for my current GitHub Account
 --------------------------
-
 I work in the Data Product team at BINK. My primary role is as an analytics engineer using DBT and snowflake to create end-to-end data pipelines including load, staging and transformation. Having previously worked as a Data Scientists in the retail finance industry, I also have experience using R, AI/ML, Azure Data Stack, and PowerBI. At BINK, I seek to update our delivery of data to a web based data platform, integrating AI features, and empowering data consumers. For my personal/university account, please see [here](https://github.com/Rawlsy-py).
 
 *   🌍  I'm based in Warwickshire.
